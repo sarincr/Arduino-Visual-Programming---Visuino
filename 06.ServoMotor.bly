@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="servo_cont" id="7" inline="false" x="80" y="51"><field name="ROT">0</field><value name="PIN"><block type="math_number" id="16"><field name="NUM">8</field></block></value><value name="DELAY_TIME"><block type="math_number" id="30"><field name="NUM">10</field></block></value></block></xml>
