@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="serial_println" id="102" inline="false" x="384" y="202"><value name="CONTENT"><block type="bq_potentiometer" id="50" inline="false"><value name="PIN"><block type="math_number" id="80"><field name="NUM">0</field></block></value></block></value></block></xml>
